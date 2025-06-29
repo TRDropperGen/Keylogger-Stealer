@@ -45,7 +45,7 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://i.imgur.com/GzB1KZY.png" alt="Scorpio Crypter Panel Screenshot" width="700">
+  <img src="https://gyazo.com/3402489d8348c82ac47a8ecd6eeba67d.png" alt="Scorpio Crypter Panel Screenshot" width="700">
   <br><br>
   <img src="https://scorpiocrypter.cc/Keylogger.png" alt="Scorpio Keylogger Builder Screenshot" width="700">
 </div>
