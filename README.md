@@ -1,45 +1,66 @@
-✔️[align=center][video=youtube]https://www.youtube.com/watch?v=O_kvdmIqskA&ab_channel=Security[/video][/align]
+# Scorpio Keylogger & Stealer
 
-[align=center][color=#4CEA5E][size=medium][b]✅Auto-Delivery[/b][/size][/color][/align]
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=O_kvdmIqskA">
+    <img src="https://img.youtube.com/vi/O_kvdmIqskA/hqdefault.jpg" alt="Watch the Video Presentation">
+  </a>
+</div>
 
+<div align="center">
+  <h3>✅ Auto-Delivery Available</h3>
+  <a href="https://scorpiocrypter.cc/keylogger.html">https://scorpiocrypter.cc/keylogger.html</a>
+</div>
 
-[align=center][url=https://scorpiocrypter.cc/keylogger.html]https://scorpiocrypter.cc/keylogger.html[/url][/align]
+<br>
 
+<div align="center">
+  <h3>Latest News & Updates</h3>
+  <a href="https://t.me/TrDropperGen">
+    <img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-64.png" alt="Join us on Telegram" width="50">
+  </a>
+</div>
 
-[color=#4CEA5E][size=medium][align=center][b][url=https://t.me/TrDropperGen]Latest News & Updates[/url][/b][/align][/size][/color]
-[align=center]
-[url=https://t.me/TrDropperGen][img]https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-64.png[/img][/url]
-[/align]
+---
 
-[b][color=#4CEA5E][size=medium][align=center]☑️ Coded in C++ & VB6[/align][/size][/color][/b]
+<p align="center">
+  <strong>☑️ Coded in C++ & VB6</strong>
+</p>
 
-[align=center][size=large][font=Verdana][color=#00FFFF]
-Features:
+## ✨ Features
 
-[color=#4CEA5E][size=large][b]Firefox/Thunderbird stealer has been added[/b][/size][/color]
-☑️ Startup
-☑️ 2FA Stealer
-☑️ Wallet Stealer
-☑️ Password & Cookies Stealer
-☑️ Google Chrome 
-☑️ Edge
-☑️ Firefox
-☑️ Keylogger
-☑️ Screenshots
-☑️ Crypto Clipper
+*   **🔥 Firefox/Thunderbird stealer has been added!**
+*   ☑️ **Startup**: Ensures persistence after reboot.
+*   ☑️ **2FA Stealer**: Captures 2-Factor Authentication codes.
+*   ☑️ **Wallet Stealer**: Targets cryptocurrency wallets.
+*   ☑️ **Password & Cookies Stealer** from major browsers:
+    *   Google Chrome
+    *   Microsoft Edge
+    *   Mozilla Firefox
+*   ☑️ **Keylogger**: Records all keystrokes.
+*   ☑️ **Screenshots**: Takes periodic screenshots of the user's screen.
+*   ☑️ **Crypto Clipper**: Replaces copied crypto addresses with the attacker's address.
 
-[/color][/font][/size][/align]
-[align=center][img]https://gyazo.com/3402489d8348c82ac47a8ecd6eeba67d.png[/img][/align]
+---
 
-[align=center][img]https://scorpiocrypter.cc/Keylogger.png[/img][/align]
+## 📸 Screenshots
 
+<div align="center">
+  <img src="https://i.imgur.com/GzB1KZY.png" alt="Scorpio Crypter Panel Screenshot" width="700">
+  <br><br>
+  <img src="https://scorpiocrypter.cc/Keylogger.png" alt="Scorpio Keylogger Builder Screenshot" width="700">
+</div>
 
+---
 
-[align=center][color=#00FFFF][font=Verdana][size=large][b]One month[/b][/size][/font][/color][/align]
+## 🛒 Pricing
 
-[align=center][contract_template=4363]$69.99[/contract_template][/align]
-[align=center][color=#00FFFF][font=Verdana][size=large][b]Lifetime[/b][/size][/font][/color][/align]
+| Plan      | Price     |
+| :-------- | :-------: |
+| One Month | **$69.99**  |
+| Lifetime  | **$350.00** |
 
-[align=center][contract_template=4399]$350.00[/contract_template][/align]
+---
 
-Telegram: https://t.me/TrDropperGen
+## 📞 Contact
+
+*   **Telegram**: [**TrDropperGen**](https://t.me/TrDropperGen)
