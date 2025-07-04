@@ -27,8 +27,8 @@
 </p>
 
 ## ✨ Features
-
-*   **🔥 Firefox/Thunderbird stealer has been added!**
+*   ☑️ Private Key stealer - metamask.
+*   ☑️ Firefox/Thunderbird stealer.
 *   ☑️ **Startup**: Ensures persistence after reboot.
 *   ☑️ **2FA Stealer**: Captures 2-Factor Authentication codes.
 *   ☑️ **Wallet Stealer**: Targets cryptocurrency wallets.
