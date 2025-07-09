@@ -1,4 +1,4 @@
-# Scorpio Keylogger & Stealer
+# Scorpio Keylogger & Stealer.
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=O_kvdmIqskA">
